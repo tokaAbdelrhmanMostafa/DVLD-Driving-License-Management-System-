@@ -1,0 +1,9 @@
+D:\c#project linces\Buisness\bin\Debug\Buisness.dll
+D:\c#project linces\Buisness\bin\Debug\Buisness.pdb
+D:\c#project linces\Buisness\bin\Debug\DataAccess.dll
+D:\c#project linces\Buisness\bin\Debug\DataAccess.pdb
+D:\c#project linces\Buisness\obj\Debug\Buisness.csproj.AssemblyReference.cache
+D:\c#project linces\Buisness\obj\Debug\Buisness.csproj.CoreCompileInputs.cache
+D:\c#project linces\Buisness\obj\Debug\Buisness.csproj.Up2Date
+D:\c#project linces\Buisness\obj\Debug\Buisness.dll
+D:\c#project linces\Buisness\obj\Debug\Buisness.pdb

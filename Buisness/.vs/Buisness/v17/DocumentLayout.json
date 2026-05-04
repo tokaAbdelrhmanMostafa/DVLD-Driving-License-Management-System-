@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#project linces\\Buisness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F413FD-DCF3-497A-BB6C-6587750A3D22}|..\\DataAccess\\DataAccess.csproj|d:\\c#project linces\\dataaccess\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F413FD-DCF3-497A-BB6C-6587750A3D22}|..\\DataAccess\\DataAccess.csproj|d:\\c#project linces\\dataaccess\\clsapplicationtypedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A86C77-FA74-43CA-80EF-85DD40C17551}|..\\Presentation\\Presentation.csproj|d:\\c#project linces\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A86C77-FA74-43CA-80EF-85DD40C17551}|..\\Presentation\\Presentation.csproj|d:\\c#project linces\\presentation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A86C77-FA74-43CA-80EF-85DD40C17551}|..\\Presentation\\Presentation.csproj|d:\\c#project linces\\presentation\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F413FD-DCF3-497A-BB6C-6587750A3D22}|..\\DataAccess\\DataAccess.csproj|d:\\c#project linces\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64168AA4-EF98-4F5A-BBDD-1582D02BC74D}|Buisness.csproj|D:\\c#project linces\\Buisness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64168AA4-EF98-4F5A-BBDD-1582D02BC74D}|Buisness.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\c#project linces\\Presentation\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Form2.cs",
+              "ToolTip": "D:\\c#project linces\\Presentation\\Form2.cs",
+              "RelativeToolTip": "..\\Presentation\\Form2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:51:12.008Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#project linces\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Form1.cs",
+              "ToolTip": "D:\\c#project linces\\Presentation\\Form1.cs",
+              "RelativeToolTip": "..\\Presentation\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAnwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:42:51.454Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "D:\\c#project linces\\DataAccess\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\clsDataAccessSettings.cs",
+              "ToolTip": "D:\\c#project linces\\DataAccess\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\DataAccess\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:05:22.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsApplicationTypeData.cs",
+              "DocumentMoniker": "D:\\c#project linces\\DataAccess\\clsApplicationTypeData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\clsApplicationTypeData.cs",
+              "ToolTip": "D:\\c#project linces\\DataAccess\\clsApplicationTypeData.cs",
+              "RelativeToolTip": "..\\DataAccess\\clsApplicationTypeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:04:11.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\c#project linces\\Presentation\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Form1.cs",
+              "ToolTip": "D:\\c#project linces\\Presentation\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Presentation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:52:26.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\c#project linces\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\DataAccess\\Class1.cs",
+              "ToolTip": "D:\\c#project linces\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "..\\DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:24:25.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\c#project linces\\Buisness\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\c#project linces\\Buisness\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T13:24:03.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

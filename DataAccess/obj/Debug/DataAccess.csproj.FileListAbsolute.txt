@@ -1,0 +1,6 @@
+D:\c#project linces\DataAccess\bin\Debug\DataAccess.dll
+D:\c#project linces\DataAccess\bin\Debug\DataAccess.pdb
+D:\c#project linces\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\c#project linces\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\c#project linces\DataAccess\obj\Debug\DataAccess.dll
+D:\c#project linces\DataAccess\obj\Debug\DataAccess.pdb
